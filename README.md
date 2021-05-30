@@ -1,2 +1,2 @@
-# inform-tica-para-ni-os
+# informatica-para-niños
 aprendizaje de informática básico
